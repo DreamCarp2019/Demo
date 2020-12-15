@@ -1,0 +1,10 @@
+git链入GitHub
+git config --global user.name "xxx"
+git config --global user.email "xxx@xx.com"
+git config --list
+ssh-keygen -t rsa -C "邮箱"
+cat .ssh/id_rsa.pub
+进入GitHub点击setting 点击New SSH Key
+添加key
+title随便起
+终端输入ssh  -T git@github.com
