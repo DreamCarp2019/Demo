@@ -1,2 +1,0 @@
-this is my first time to config git on windows os
-it is very successful!!! 
